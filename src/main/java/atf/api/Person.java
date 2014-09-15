@@ -1,7 +1,7 @@
 package atf.api;
 
 public interface Person {
-    public Long getId();
+    public long getId();
 
     public String getLastName();
 
